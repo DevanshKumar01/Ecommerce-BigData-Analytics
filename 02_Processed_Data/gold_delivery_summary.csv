@@ -1,0 +1,7 @@
+order_status,orders,avg_delivery_days,late_pct
+delivered,96478,12.5,8.11
+shipped,1107,null,null
+invoiced,314,null,null
+processing,301,null,null
+created,5,null,null
+approved,2,null,null
